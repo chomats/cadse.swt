@@ -15,7 +15,7 @@
 
 	<profiles>
 		<profile>
-			<id>gtk.linux.x86_64</id>
+			<id>gtk.linux.x86</id>
 			<activation>
 				<activeByDefault>false</activeByDefault>
 				<os>
