@@ -5,7 +5,7 @@
 	<artifactId>swt</artifactId>
 	<packaging>pom</packaging>
 	<name>org.eclipse.swt</name>
-	<version>3.5.1-v3555a</version>
+	<version>3.5.2-v3557f</version>
 	<parent>
 		<artifactId>fr.imag.adele.cadse.parent</artifactId>
 		<groupId>fr.imag.adele.cadse</groupId>
@@ -28,7 +28,7 @@
 				<dependency>
 					<groupId>org.eclipse</groupId>
 					<artifactId>org.eclipse.swt.gtk.linux.x86</artifactId>
-					<version>3.5.1-v3555a</version>
+					<version>${project.version}</version>
 				</dependency>
 			</dependencies>
 		</profile>
@@ -46,7 +46,7 @@
 				<dependency>
 					<groupId>org.eclipse</groupId>
 					<artifactId>org.eclipse.swt.gtk.linux.x86_64</artifactId>
-					<version>3.5.1-v3555a</version>
+					<version>${project.version}</version>
 				</dependency>
 			</dependencies>
 		</profile>
@@ -64,7 +64,7 @@
 				<dependency>
 					<groupId>org.eclipse</groupId>
 					<artifactId>org.eclipse.swt.cocoa.macosx.x86_64</artifactId>
-					<version>3.5.1-v3555a</version>
+					<version>${project.version}</version>
 				</dependency>
 			</dependencies>
 		</profile>
