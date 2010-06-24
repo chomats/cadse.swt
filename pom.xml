@@ -8,7 +8,7 @@
 	<version>3.6.0-v3650</version>
 	<parent>
 		<artifactId>fr.imag.adele.cadse.parent</artifactId>
-		<groupId>fr.imag.adele.cadse</groupId>
+		<groupId>fr.imag.adele.cadse.runtime</groupId>
 		<version>2.3.0-SNAPSHOT</version>
 		<relativePath>../fr.imag.adele.cadse.parent</relativePath>
 	</parent>
